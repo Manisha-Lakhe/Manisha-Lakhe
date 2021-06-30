@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Manisha-Lakhe 
 - 👀 I’m interested in everything that sounds cool
-- 🌱 I’m currently learning DataScience and Python
+- 🌱 I’m currently learning DataScience and Python web development
 - 💞️ I use Linux 
 
 ### Connect with me:
