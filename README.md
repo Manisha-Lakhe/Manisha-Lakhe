@@ -32,7 +32,6 @@
 <br />
 <br />
 
-<img align="left" alt="Manisha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Manisha-Lakhe&show_icons=true&hide_border=true" />
 
 <!---
 Manisha-Lakhe/Manisha-Lakhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
