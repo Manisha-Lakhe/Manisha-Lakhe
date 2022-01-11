@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m @Manisha-Lakhe 
 - 👀 I’m interested in everything that sounds cool
-- 🌱 I’m currently learning DataScience and Python web development
-- 💞️ I use Linux 
+- 🌱 I’m currently learning Python and Java 
+- 💞️ I use Linux and Windows
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/manisha-lakhe-7643a41a3">
